@@ -8,7 +8,7 @@ class Home extends BaseController
 	{
 		$data = [
 			'judul' => 'INI JUDUL',
-			'angka' => 'sembilan',
+			'angka' => 'sepuluh',
 		];
 
 		return view('coba',$data);
